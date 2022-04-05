@@ -3,8 +3,9 @@ package com.sangjin.test;
 import java.util.Scanner;
 
 public class Main {
-
+	
 	public static void main(String[] args) {
+		//백준 2525 오븐시계
 		Scanner sc = new Scanner(System.in);
 		int hour = sc.nextInt();
 		int minute = sc.nextInt();
